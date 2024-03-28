@@ -4,6 +4,7 @@
 - name: developer experience
   color: "5038e1"
   description: "Not a required feature, but makes development easier"
+  aliases: ["DX"]
 - name: documentation
   color: "1c74c6"
   description: "Improvements or additions to documentation"
@@ -26,3 +27,4 @@
 - name: workaround possible
   color: "c6f874"
   description: "There is a workaround if this feature isn't implemented"
+  aliases: ["workaround exists"]

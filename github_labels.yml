@@ -28,3 +28,6 @@
   color: "c6f874"
   description: "There is a workaround if this feature isn't implemented"
   aliases: ["workaround exists"]
+- name: specification
+  color: "1c74c6"
+  description: "Specification engineering"
